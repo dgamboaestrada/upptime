@@ -5,9 +5,9 @@ sites:
   - name: danielgamboa.mx
     url: https://danielgamboa.mx
   - name: ItronicsStore
-    url: https://itronics.gamboa.xyz
+    url: $ITRONICS_STORE_URL
   - name: ItronicsWorkshop
-    url: https://martin.gamboa.xyz
+    url: $ITRONICS_WORKSHOP_URL
 assignees: # Users to assign downtime issues (optional)
   - dgamboaestrada
 status-website:
