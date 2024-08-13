@@ -1,26 +1,29 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: dgamboaestrada # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: danielgamboa.mx
+    url: https://danielgamboa.mx
   - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+    url: itronics store
+  - name: itronics.gamboa.xyz
+    url: https://itronics.gamboa.xyz
+  - name: itronics workshop
+    url: https://martin.gamboa.xyz
+  - name: gamboa.xyz ping
+    url: gamboa.xyz
     port: 80
     check: "tcp-ping"
     ipv6: true
 
+assignees: # Users to assign downtime issues (optional)
+  - dgamboaestrada
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.gamboa.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
