@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 174,
-    "timeDay": 141,
-    "timeWeek": 170,
+    "timeDay": 150,
+    "timeWeek": 167,
     "timeMonth": 168,
     "timeYear": 174,
     "dailyMinutesDown": {
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 309,
-    "timeDay": 376,
-    "timeWeek": 330,
-    "timeMonth": 307,
-    "timeYear": 309,
+    "time": 308,
+    "timeDay": 224,
+    "timeWeek": 313,
+    "timeMonth": 306,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2024-08-13": 286
     }
@@ -47,16 +47,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "itronics-workshop",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
-    "time": 386,
-    "timeDay": 246,
-    "timeWeek": 362,
-    "timeMonth": 339,
-    "timeYear": 386,
+    "uptimeYear": "99.81%",
+    "time": 384,
+    "timeDay": 233,
+    "timeWeek": 340,
+    "timeMonth": 338,
+    "timeYear": 384,
     "dailyMinutesDown": {
       "2024-08-13": 290
     }
