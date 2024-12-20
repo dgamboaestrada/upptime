@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
     "time": 171,
-    "timeDay": 152,
-    "timeWeek": 137,
-    "timeMonth": 162,
+    "timeDay": 141,
+    "timeWeek": 132,
+    "timeMonth": 161,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2024-10-08": 885,
@@ -27,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "itronics-store",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 305,
-    "timeDay": 288,
-    "timeWeek": 287,
-    "timeMonth": 297,
-    "timeYear": 305,
+    "uptimeYear": "99.85%",
+    "time": 304,
+    "timeDay": 211,
+    "timeWeek": 275,
+    "timeMonth": 294,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2024-08-13": 286
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 373,
-    "timeDay": 231,
-    "timeWeek": 297,
-    "timeMonth": 331,
-    "timeYear": 373,
+    "time": 372,
+    "timeDay": 244,
+    "timeWeek": 286,
+    "timeMonth": 329,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2024-08-13": 290
     }
