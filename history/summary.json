@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/danielgamboa.mx.ico",
     "slug": "danielgamboa-mx",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "98.89%",
     "time": 192,
-    "timeDay": 322,
-    "timeWeek": 309,
-    "timeMonth": 258,
+    "timeDay": 234,
+    "timeWeek": 313,
+    "timeMonth": 254,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2025-02-06": 1034,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 291,
-    "timeDay": 372,
+    "timeDay": 240,
     "timeWeek": 334,
-    "timeMonth": 311,
+    "timeMonth": 306,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2024-08-13": 286
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 345,
-    "timeDay": 365,
+    "time": 344,
+    "timeDay": 213,
     "timeWeek": 490,
-    "timeMonth": 348,
-    "timeYear": 345,
+    "timeMonth": 340,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2024-08-13": 290
     }
