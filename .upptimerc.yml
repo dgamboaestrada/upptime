@@ -6,10 +6,46 @@ sites:
     url: https://danielgamboa.mx
   - name: ItronicsStore
     url: $ITRONICS_STORE_URL
+    headers:
+      - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
   - name: ItronicsWorkshop
     url: $ITRONICS_WORKSHOP_URL
+    headers:
+      - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
   - name: Homer
     url: https://homer.gamboa.xyz
+    headers:
+      - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
+  - name: Nextcloud
+    url: https://nextcloud.gamboa.xyz
+    headers:
+      - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
+  - name: Pi-hole
+    url: https://pihole.gamboa.xyz
+    headers:
+      - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
+  - name: ProxyManager
+    url: https://proxy.gamboa.xyz
+    headers:
+      - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
+  - name: Protainer
+    url: https://portainer.gamboa.xyz
+    headers:
+      - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
+  - name: Jellyfin
+    url: https://jellyfin.gamboa.xyz
+    headers:
+      - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
+  - name: RuTorrent
+    url: https://rutorrent.gamboa.xyz
     headers:
       - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
       - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
