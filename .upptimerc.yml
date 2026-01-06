@@ -9,7 +9,7 @@ sites:
   - name: ItronicsWorkshop
     url: $ITRONICS_WORKSHOP_URL
   - name: Homer
-    url: $HOMER_URL
+    url: https://homer.gamboa.xyz
     headers:
       - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
       - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
