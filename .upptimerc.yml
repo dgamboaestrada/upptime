@@ -8,6 +8,11 @@ sites:
     url: $ITRONICS_STORE_URL
   - name: ItronicsWorkshop
     url: $ITRONICS_WORKSHOP_URL
+  - name: Homer
+    url: $HOMER_URL
+    headers:
+      - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
 assignees: # Users to assign downtime issues (optional)
   - dgamboaestrada
 status-website:
