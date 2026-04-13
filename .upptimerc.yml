@@ -25,7 +25,7 @@ sites:
       - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
       - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
   - name: Pi-hole
-    url: https://pihole.gamboa.xyz
+    url: https://pihole.gamboa.xyz/admin
     headers:
       - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
       - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
@@ -41,11 +41,6 @@ sites:
       - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
   - name: Jellyfin
     url: https://jellyfin.gamboa.xyz
-    headers:
-      - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
-      - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
-  - name: RuTorrent
-    url: https://rutorrent.gamboa.xyz
     headers:
       - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
       - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
