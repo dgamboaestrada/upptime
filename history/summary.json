@@ -80,18 +80,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/homer.gamboa.xyz.ico",
     "slug": "homer",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 667,
     "timeDay": 375,
     "timeWeek": 489,
     "timeMonth": 538,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2026-04-13": 15,
       "2026-01-06": 54
     }
   },
@@ -101,18 +100,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.gamboa.xyz.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 255,
     "timeDay": 230,
     "timeWeek": 213,
     "timeMonth": 214,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2026-04-13": 15
+      "2026-04-13": 28
     }
   },
   {
@@ -121,18 +120,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pihole.gamboa.xyz.ico",
     "slug": "pi-hole",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 311,
     "timeDay": 591,
     "timeWeek": 352,
     "timeMonth": 312,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2026-04-13": 15
+      "2026-04-13": 27
     }
   },
   {
@@ -158,19 +157,19 @@
     "url": "https://portainer.gamboa.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.gamboa.xyz.ico",
     "slug": "protainer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 206,
-    "timeWeek": 245,
-    "timeMonth": 224,
-    "timeYear": 216,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 220,
+    "timeDay": 376,
+    "timeWeek": 282,
+    "timeMonth": 234,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2026-04-13": 0
+      "2026-04-13": 13
     }
   },
   {
@@ -179,19 +178,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.gamboa.xyz.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 242,
     "timeDay": 297,
     "timeWeek": 277,
     "timeMonth": 234,
     "timeYear": 242,
-    "dailyMinutesDown": {
-      "2026-04-13": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RuTorrent",
@@ -199,18 +196,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rutorrent.gamboa.xyz.ico",
     "slug": "ru-torrent",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 220,
     "timeDay": 208,
     "timeWeek": 192,
     "timeMonth": 193,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2026-04-13": 15
+      "2026-04-13": 27
     }
   }
 ]
