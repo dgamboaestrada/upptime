@@ -1,7 +1,7 @@
 # Change these first
 owner: dgamboaestrada # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-runner: "[self-hosted]"
+# runner: "[self-hosted]"
 sites:
   - name: danielgamboa.mx
     url: https://danielgamboa.mx
@@ -42,11 +42,6 @@ sites:
       - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
   - name: Jellyfin
     url: https://jellyfin.gamboa.xyz
-    headers:
-      - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
-      - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
-  - name: HomeAssistant
-    url: https://homeassistant.gamboa.xyz
     headers:
       - "CF-Access-Client-Id: $CF_ACESS_CLIENT_ID"
       - "CF-Access-Client-Secret: $CF_ACESS_CLIENT_SECRET"
