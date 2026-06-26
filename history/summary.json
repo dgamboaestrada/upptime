@@ -101,20 +101,21 @@
     "url": "https://nextcloud.gamboa.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.gamboa.xyz.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 492,
-    "timeDay": 791,
-    "timeWeek": 762,
-    "timeMonth": 871,
-    "timeYear": 492,
+    "time": 491,
+    "timeDay": 588,
+    "timeWeek": 715,
+    "timeMonth": 856,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2026-04-13": 43,
-      "2026-04-21": 108
+      "2026-04-21": 108,
+      "2026-06-26": 0
     }
   },
   {
