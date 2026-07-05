@@ -104,7 +104,7 @@
     "status": "up",
     "uptime": "98.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.62%",
+    "uptimeWeek": "80.87%",
     "uptimeMonth": "89.43%",
     "uptimeYear": "98.15%",
     "time": 506,
@@ -127,11 +127,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pihole.gamboa.xyz.ico",
     "slug": "pi-hole",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 508,
     "timeDay": 498,
     "timeWeek": 830,
@@ -139,7 +139,7 @@
     "timeYear": 508,
     "dailyMinutesDown": {
       "2026-04-13": 47,
-      "2026-07-05": 0
+      "2026-07-05": 26
     }
   },
   {
