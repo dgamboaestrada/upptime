@@ -81,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/homer.gamboa.xyz.ico",
     "slug": "homer",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.74%",
+    "uptimeDay": "66.92%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.74%",
     "time": 488,
     "timeDay": 182,
     "timeWeek": 317,
@@ -94,7 +94,7 @@
     "dailyMinutesDown": {
       "2026-01-06": 54,
       "2026-04-21": 169,
-      "2026-07-09": 2
+      "2026-07-09": 476
     }
   },
   {
@@ -103,11 +103,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.gamboa.xyz.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "98.19%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "89.43%",
-    "uptimeYear": "98.19%",
+    "uptime": "98.01%",
+    "uptimeDay": "66.94%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "88.35%",
+    "uptimeYear": "98.01%",
     "time": 512,
     "timeDay": 394,
     "timeWeek": 868,
@@ -120,7 +120,7 @@
       "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 1158,
-      "2026-07-09": 1
+      "2026-07-09": 476
     }
   },
   {
@@ -128,21 +128,21 @@
     "url": "https://pihole.gamboa.xyz/admin",
     "icon": "https://icons.duckduckgo.com/ip3/pihole.gamboa.xyz.ico",
     "slug": "pi-hole",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.89%",
-    "time": 518,
-    "timeDay": 630,
-    "timeWeek": 799,
-    "timeMonth": 802,
-    "timeYear": 518,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "67.01%",
+    "uptimeWeek": "92.99%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "99.72%",
+    "time": 521,
+    "timeDay": 797,
+    "timeWeek": 829,
+    "timeMonth": 812,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2026-04-13": 47,
       "2026-07-05": 231,
-      "2026-07-09": 1
+      "2026-07-09": 475
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://proxy.gamboa.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.gamboa.xyz.ico",
     "slug": "proxy-manager",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "67.02%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "99.82%",
     "time": 254,
-    "timeDay": 239,
-    "timeWeek": 292,
-    "timeMonth": 295,
+    "timeDay": 277,
+    "timeWeek": 299,
+    "timeMonth": 297,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2026-07-09": 1
+      "2026-07-09": 475
     }
   },
   {
@@ -170,19 +170,19 @@
     "url": "https://portainer.gamboa.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.gamboa.xyz.ico",
     "slug": "protainer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 231,
-    "timeWeek": 297,
-    "timeMonth": 315,
-    "timeYear": 260,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "67.03%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "99.82%",
+    "time": 261,
+    "timeDay": 271,
+    "timeWeek": 303,
+    "timeMonth": 316,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2026-07-09": 1
+      "2026-07-09": 475
     }
   },
   {
@@ -191,11 +191,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.gamboa.xyz.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.78%",
+    "uptimeDay": "67.00%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "99.78%",
     "time": 385,
     "timeDay": 313,
     "timeWeek": 613,
@@ -203,7 +203,7 @@
     "timeYear": 385,
     "dailyMinutesDown": {
       "2026-04-21": 108,
-      "2026-07-09": 1
+      "2026-07-09": 475
     }
   },
   {
@@ -212,11 +212,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.gamboa.xyz.ico",
     "slug": "n8-n",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.53%",
+    "uptimeDay": "67.01%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "99.53%",
     "time": 310,
     "timeDay": 188,
     "timeWeek": 341,
@@ -224,7 +224,7 @@
     "timeYear": 310,
     "dailyMinutesDown": {
       "2026-04-21": 108,
-      "2026-07-09": 0
+      "2026-07-09": 475
     }
   }
 ]
